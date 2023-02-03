@@ -2,9 +2,14 @@
     margin:0;
     padding:0;
     box-sizing: border-box;
+    
+    overflow-x: hidden; 
 }
 body{
     font-family: 'Balsamiq Sans', cursive;
+    
+  overflow-x: hidden; 
+
 }
 .logo{
     color: rgb(11, 231, 224);
@@ -16,8 +21,8 @@ body{
 }
 .hero {
  
-    padding-top: 10.5rem;
-    padding-bottom: 6rem;
+    padding-top: auto;
+    padding-bottom: auto;
     text-align: center;
     color: #000;
     background-image: url("https://www.racedepartment.com/attachments/__custom_showroom_1577558631-jpg.341036/");
